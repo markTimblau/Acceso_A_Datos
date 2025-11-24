@@ -1,4 +1,5 @@
 Tasca 1: Canvi h2 a mysql
+
 <img width="674" height="268" alt="image" src="https://github.com/user-attachments/assets/bc947a81-4d33-4d8c-8358-9c7ca0a86fbf" />
 
 Tasca 2: Utilitzar Docker hub
@@ -18,6 +19,7 @@ Tasca 6: Read by ID - Obtenir un customer segons l’id
 
 Tasca 7: UPDATE complet - Actualització completa de customer
 <img width="929" height="764" alt="image" src="https://github.com/user-attachments/assets/4cca21a2-80eb-48d1-8785-dbba9ae2d333" />
+Confirmació:
 <img width="882" height="611" alt="image" src="https://github.com/user-attachments/assets/bd2d5241-6560-48fa-8fc8-945e85823b48" />
 
 Tasca 8: UPDATE parcial - Modificació age
@@ -25,5 +27,6 @@ Tasca 8: UPDATE parcial - Modificació age
 
 Tasca 9: DELETE - Esborrar customer
 <img width="709" height="332" alt="image" src="https://github.com/user-attachments/assets/a6a87c57-d7a1-4eb8-a28d-dd536e2ecdbb" />
+Confirmació:
 <img width="1054" height="1002" alt="image" src="https://github.com/user-attachments/assets/8fd53d01-2438-4ec7-a295-0f0d03f2fcc0" />
 
